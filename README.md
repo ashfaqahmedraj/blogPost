@@ -30,3 +30,16 @@
   <li>For creating a user table ( click on the blog_post and click on new (after that give an Table name: post_data ). Then get 5 column for id, title, dise, image and   post_date</li> 
   <li>Then we need to create another table for users (click on the blog_post and click on new (after that give a Table name: users ) Then get 4 columns for id, name,     email and Password.</li> 
 </ul>
+
+<p>Completing these steps we are ready to upload our source file into our cPanel.</p>
+
+<h3>For Uploading my files into localhost Follow these Steps!</h3>
+<ul> 
+  <li>First we need to go to the file manager options then open the htdocs file.</li> 
+  <li>In the htdocs files we need to upload our source code.</li> 
+  <li>Fast Table is for our users data  and Second table is for our Posts data.</li> 
+  <li>Click on upload option and select the source file (remind that the file should be Zipped ).</li> 
+  <li>Then we need to unzip the file by clicking the extract file. After that delete the zip file.</li> 
+  <li>Congratulations, we're successfully completed. Now we can access our website without any issues. </li> 
+</ul>
+
