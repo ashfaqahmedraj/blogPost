@@ -16,7 +16,7 @@
   <li>We need to download the source file from Github:</li> 
   <li>Then unzip the file and we need to do some simple changes in code!!</li> 
   <li>We need to change our connection values from the config.php files.</li> 
-  <li>We need to change our connection values from the config.php files.</li> 
+  <liThe (localhost will replace with your server name ), (root will replace with your Username ), ( “ ” will replace with your password),  ( “blog_post” will replace    with your database name).</li> 
 </ul>
 
 
