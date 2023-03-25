@@ -21,6 +21,8 @@
 </ul>
 
 <h4>Next we need to create a database for our Data!</h4>
+
+<h3>Go to your database and create a table.</h3>
 <ul> 
   <li>After coming on the mysql server click on new and create a new database (Database name Is blog_post ).</li> 
   <li>In this database we need to create 2 tables. </li> 
