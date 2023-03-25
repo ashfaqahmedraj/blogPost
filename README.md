@@ -21,3 +21,10 @@
 </ul>
 
 <h4>Next we need to create a database for our Data!</h4>
+<ul> 
+  <li>After coming on the mysql server click on new and create a new database (Database name Is blog_post ).</li> 
+  <li>In this database we need to create 2 tables. </li> 
+  <li>Fast Table is for our users data  and Second table is for our Posts data.</li> 
+  <li>For creating a user table ( click on the blog_post and click on new (after that give an Table name: post_data ). Then get 5 column for id, title, dise, image and   post_date</li> 
+  <li>Then we need to create another table for users (click on the blog_post and click on new (after that give a Table name: users ) Then get 4 columns for id, name,     email and Password.</li> 
+</ul>
